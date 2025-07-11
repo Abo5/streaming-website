@@ -132,3 +132,13 @@
   overscroll-behavior-y: contain;
   overscroll-behavior-x: none;
 }
+
+nextjs-portal {
+  display: none;
+}
+
+body {
+  padding: 0 !important;
+  overflow: auto !important;
+}
+
